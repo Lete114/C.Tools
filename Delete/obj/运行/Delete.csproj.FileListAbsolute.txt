@@ -1,0 +1,13 @@
+D:\Lete\Visual Studio\Delete\Delete\bin\运行\Delete.exe.config
+D:\Lete\Visual Studio\Delete\Delete\bin\运行\Delete.exe
+D:\Lete\Visual Studio\Delete\Delete\obj\运行\Delete.Main.resources
+D:\Lete\Visual Studio\Delete\Delete\obj\运行\Delete.Properties.Resources.resources
+D:\Lete\Visual Studio\Delete\Delete\obj\运行\Delete.csproj.GenerateResource.Cache
+D:\Lete\Visual Studio\Delete\Delete\obj\运行\Delete.exe
+D:\Lete\Visual Studio\com.lete.tools\Delete\bin\运行\Delete.exe.config
+D:\Lete\Visual Studio\com.lete.tools\Delete\obj\运行\Delete.exe
+D:\Lete\Visual Studio\com.lete.tools\Delete\bin\运行\Delete.exe
+D:\Lete\Visual Studio\com.lete.tools\Delete\obj\运行\Delete.LeteTools.resources
+D:\Lete\Visual Studio\com.lete.tools\Delete\obj\运行\Delete.Main.resources
+D:\Lete\Visual Studio\com.lete.tools\Delete\obj\运行\Delete.Properties.Resources.resources
+D:\Lete\Visual Studio\com.lete.tools\Delete\obj\运行\Delete.csproj.GenerateResource.Cache

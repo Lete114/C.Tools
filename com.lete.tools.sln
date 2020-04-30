@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Delete\Tools.csproj", "{6A37C69F-25EA-4A66-803C-308B0379806E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		运行|Any CPU = 运行|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.运行|Any CPU.ActiveCfg = 运行|Any CPU
+		{6A37C69F-25EA-4A66-803C-308B0379806E}.运行|Any CPU.Build.0 = 运行|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
