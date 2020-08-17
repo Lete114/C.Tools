@@ -27,7 +27,7 @@ namespace Delete
         // 单击乐特
         private void lete_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://lete114.github.io/");
+            System.Diagnostics.Process.Start("https://lete114.top/");
         }
         // 窗体加载事件
         private void LeteTools_Load(object sender, EventArgs e)
